@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.container{
+    width: 80vw;
+    margin: 10vh auto;
+}
+input{
+    display: block;
+    width: 100%;
+    padding: 10px 20px;
+    margin-top: 20px;
+}
+form{
+    margin-bottom: 20px;
+}
+.body-list{
+    display: flex;
+    justify-content: space-between;
+}
